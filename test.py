@@ -3,7 +3,6 @@ import json
 
 
 def get_data():
-
 	cookies = {
 		'__js_p_': '631,3600,0,1,0',
 		'__jhash_': '1092',
